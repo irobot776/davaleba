@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+.output {
+  margin-top: 50px;
+}
+.input {
+  margin-top: 50px;
+}
+
+.error {
+  color: red;
+}
